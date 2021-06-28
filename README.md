@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React and Golang
+- 🌱 I’m currently learning React-native and Golang
 - ⚡ Fun fact: I sleep with a blanket
 <!--
 **aldiinugroho/aldiinugroho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
