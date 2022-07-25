@@ -2,6 +2,7 @@
 
 <!-- - 🌱 I’m currently learning React-native and Golang -->
 - ⚡ Fun fact: I sleep with a blanket
+- 📱 Mobile developer
 <!--
 **aldiinugroho/aldiinugroho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
